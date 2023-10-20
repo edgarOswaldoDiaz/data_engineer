@@ -6,5 +6,8 @@
 #### Contenedor basado en Visualización Apache Superset.
     podman pull apache/superset
 
+#### Contenedor basado en Apache NiFi
+    podman pull apache/nifi
+
 ----------
 - Download Podman Desktop https://podman-desktop.io/ 
