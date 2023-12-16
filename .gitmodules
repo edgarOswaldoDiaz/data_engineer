@@ -1,0 +1,3 @@
+[submodule "ML_landsat_denue_ucags"]
+	path = ML_landsat_denue_ucags
+	url = https://github.com/mitsiu-carreno/ML_landsat_denue_ucags.git
